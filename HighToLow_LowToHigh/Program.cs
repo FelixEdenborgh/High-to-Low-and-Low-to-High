@@ -58,6 +58,10 @@
                 Console.WriteLine(numb3 + " " + numb1 + " " + numb2);
             }
         }
+        else
+        {
+            Console.WriteLine("They are all same!");
+        }
 
         Console.WriteLine("\n");
 
@@ -105,6 +109,10 @@
                 Console.WriteLine("Low to High");
                 Console.WriteLine(numb2 + " " + numb1 + " " + numb3);
             }
+        }
+        else
+        {
+            Console.WriteLine("They are all same!");
         }
 
     }
