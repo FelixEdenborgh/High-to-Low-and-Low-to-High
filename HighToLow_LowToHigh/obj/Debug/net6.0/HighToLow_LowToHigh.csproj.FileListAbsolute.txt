@@ -1,0 +1,15 @@
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\HighToLow_LowToHigh\bin\Debug\net6.0\HighToLow_LowToHigh.exe
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\HighToLow_LowToHigh\bin\Debug\net6.0\HighToLow_LowToHigh.deps.json
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\HighToLow_LowToHigh\bin\Debug\net6.0\HighToLow_LowToHigh.runtimeconfig.json
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\HighToLow_LowToHigh\bin\Debug\net6.0\HighToLow_LowToHigh.dll
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\HighToLow_LowToHigh\bin\Debug\net6.0\HighToLow_LowToHigh.pdb
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\HighToLow_LowToHigh\obj\Debug\net6.0\HighToLow_LowToHigh.csproj.AssemblyReference.cache
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\HighToLow_LowToHigh\obj\Debug\net6.0\HighToLow_LowToHigh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\HighToLow_LowToHigh\obj\Debug\net6.0\HighToLow_LowToHigh.AssemblyInfoInputs.cache
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\HighToLow_LowToHigh\obj\Debug\net6.0\HighToLow_LowToHigh.AssemblyInfo.cs
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\HighToLow_LowToHigh\obj\Debug\net6.0\HighToLow_LowToHigh.csproj.CoreCompileInputs.cache
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\HighToLow_LowToHigh\obj\Debug\net6.0\HighToLow_LowToHigh.dll
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\HighToLow_LowToHigh\obj\Debug\net6.0\refint\HighToLow_LowToHigh.dll
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\HighToLow_LowToHigh\obj\Debug\net6.0\HighToLow_LowToHigh.pdb
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\HighToLow_LowToHigh\obj\Debug\net6.0\HighToLow_LowToHigh.genruntimeconfig.cache
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\HighToLow_LowToHigh\obj\Debug\net6.0\ref\HighToLow_LowToHigh.dll
